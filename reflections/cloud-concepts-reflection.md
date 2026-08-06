@@ -1,1 +1,9 @@
+*Reflection: My Understanding of Cloud Computing*
 
+Cloud computing is already a part of my daily life, even though I did not always realize that I was using it. Three cloud services that I regularly use are Google Drive, YouTube, and Messenger. I use Google Drive for storing and sharing school documents, YouTube for watching videos, and Messenger for communicating with classmates, friends, and family.
+
+Google Drive can be classified as SaaS (Software as a Service) because I can use its applications and storage through the internet without managing the servers behind them. It uses a Public Cloud because the service is available online to many users. YouTube is also considered SaaS because I can access its video-sharing and streaming features directly through the internet. It uses a Public Cloud since its services are provided to users through the internet. Messenger is another example of SaaS because I can use it for messaging and communication without installing or maintaining the infrastructure that operates the service. It also uses a Public Cloud deployment model.
+
+I also learned that Git and GitHub are important when working on cloud projects. Version control helps developers keep track of changes made to files and configurations. Without version control, it can be difficult to know what was changed or to recover an earlier version when something goes wrong. GitHub makes teamwork easier because several people can work on the same project, review each other's changes, and keep a record of the project's development.
+
+Overall, this activity helped me understand that cloud computing is not only something used by large companies. I use cloud services almost every day for school, communication, and entertainment. Learning about Git and GitHub also showed me the importance of organizing and protecting project files when working with technology.
